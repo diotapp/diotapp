@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @diotapp
-- 📫 How to contact me diotapp@gmail.com and [diotapp.com](diotapp.com)
+- 📫 How to contact me diotapp@gmail.com and [diotapp.com](https://www.diotapp.com/)
 
 <!---
 diotapp/diotapp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
