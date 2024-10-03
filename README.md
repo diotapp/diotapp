@@ -1,88 +1,91 @@
-# Diotapp: Data Innovation for Efficiency and Growth
+# 🌊 Welcome to Diotapp
 
-**Mission:**  
-At Diotapp, our mission is to help organizations unlock opportunities through data. We focus on reducing costs, increasing efficiency, and driving innovation by utilizing open data and advanced analytics to deliver actionable insights for our clients.
+**Innovating Water Treatment and Purification Technologies**
 
----
-
-## How We Work
-
-We follow a structured approach to ensure each project delivers meaningful results:
-
-1. **Screening**  
-   We collaborate with clients to understand their business goals and identify where data analysis can drive the most impact. We assess data sources and quality to ensure the project's feasibility.
-
-2. **Data Collection and Preparation**  
-   Our team gathers, cleans, and preprocesses data to prepare it for analysis.
-
-3. **Modeling**  
-   We develop tailored models using advanced algorithms and techniques to meet client needs.
-
-4. **Model Evaluation and Refinement**  
-   We evaluate model performance and refine it to improve accuracy and reliability.
-
-5. **Deployment**  
-   We integrate the validated models into client workflows or develop custom applications for seamless use.
-
-6. **Maintenance and Monitoring**  
-   We provide ongoing support, ensuring models remain effective through continuous monitoring and updates.
+- We transform complex water treatment challenges into simple, effective solutions.
+- Specializing in data science and engineering for the industrial and commercial water sectors.
 
 ---
 
-## Principles We Follow
+## 🔧 What We Do
 
-- **Innovation**: Constantly seeking better ways to solve complex business challenges with data.
-- **Customer Focus**: Tailoring solutions to meet the specific needs of our clients.
-- **Quality**: Delivering high-quality solutions that exceed client expectations.
-- **Integrity**: Upholding transparency and ethical business practices.
-- **Collaboration**: Working closely with clients to achieve shared goals.
-- **Continuous Improvement**: Adapting and refining our approach to stay ahead of industry trends.
+### 💧 Advanced Water Purification Solutions
 
----
+- We develop cutting-edge technologies for water treatment and purification, aiming to enhance efficiency and minimize environmental impact in industrial and commercial settings.
 
-## Featured Project: AquaPredict
+### 📈 Data Science and AI
 
-### Project Overview:  
-**AquaPredict** is a machine learning system developed to predict lake water quality based on meteorological data. This project aims to optimize water treatment processes for industrial enterprises relying on lakes as open water sources.
-
-### Why It Matters:  
-The quality of lake water has a direct impact on the cost and efficiency of water treatment. Pollution and environmental changes affect water quality, making accurate predictions essential for planning and reducing treatment costs.
-
-### Data Overview:
-
-| Data Type             | Description                       |
-|-----------------------|-----------------------------------|
-| **Meteorological Data**| Historical weather data           |
-| **_fact**             | Actual water quality data         |
-| **_pm01**             | Prediction Model #1               |
-| **_pm02**             | Prediction Model #2               |
-| **_pm03**             | Prediction Model #3               |
-
-**Technologies Used**: Python, Scikit-learn, Pandas, TensorFlow, Docker
+- Our team excels in data processing, analysis, and visualization, creating machine learning models for forecasting, optimization, and automation of processes. This enables us to extract valuable insights and implement effective solutions.
 
 ---
 
-## Tech Stack
+## 🌐 About Us
 
-### Data Science and IT:
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+- 🌍 **Established**: Since 2021, based in Tartu, Estonia.
+- 🎯 **Mission**: To revolutionize water treatment through innovative engineering and data-driven solutions.
+- 🌱 **Vision**: A sustainable future where advanced technology ensures clean water for all industries.
+- 🤝 **Collaboration**: Open to projects related to machine learning, data science, and environmental sustainability.
+
+---
+
+## 🛠 Tech Stack
+
+### Data Science and AI Tools:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02457A?style=for-the-badge&logo=LightGBM&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge&logo=ai&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-003A70?style=for-the-badge&logo=python&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC0000?style=for-the-badge&logo=databricks&logoColor=white)
 
-### Engineering and CAD:
+### Engineering and CAD Tools:
+
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-EF3B25?style=for-the-badge&logo=solidworks&logoColor=white)
-![Solid Edge](https://img.shields.io/badge/Solid%20Edge-0074B8?style=for-the-badge&logo=siemens&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-EF3B25?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![Solid Edge](https://img.shields.io/badge/Solid%20Edge-0078D7?style=for-the-badge&logo=siemens&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Bentley Systems](https://img.shields.io/badge/Bentley-00843E?style=for-the-badge&logo=bentley&logoColor=white)
 
 ---
 
-## Contact Us
+## 🌟 Featured Projects
 
-If you’re interested in how Diotapp can help your organization optimize processes and reduce costs through data-driven solutions, feel free to reach out at [diotapp@gmail.com](mailto:diotapp@gmail.com).
+[![Our GitHub](https://img.shields.io/badge/GitHub-DIOTAPP-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diotapp)
 
 ---
 
+## 🌟 Our Team
+
+[![Lead Developer](https://img.shields.io/badge/Lead%20Developer-OKHKO-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/okhko)
+
+---
+
+## 📞 Contact Us
+
+[![Email](https://img.shields.io/badge/Email-diotapp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diotapp@gmail.com)
+[![Website](https://img.shields.io/badge/Website-diotapp.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.diotapp.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DIOTAPP-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/diotapp/)
+
+---
+
+## 🌟 Fun Facts
+
+- 💡 We've been pioneers in **3D modeling** since 2011, focusing on **industrial design** and **AR visualization**.
+- 🌍 Committed to **environmental sustainability**, we leverage **machine learning** to optimize water treatment processes.
+- 🚀 Continuously pushing the boundaries of **engineering** and **AI** to create innovative solutions.
+- 🤝 We value collaboration and are open to projects that make a positive environmental impact.
+
+---
