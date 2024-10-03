@@ -32,8 +32,6 @@ At Diotapp, we pioneer innovative water treatment solutions by harnessing the po
 
 ## 🛠 Tech Stack
 
-Our tech stack supports the development and deployment of predictive models, automation, and optimization solutions, ensuring the delivery of high-performance systems.
-
 ### Data Science and AI Tools:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
