@@ -1,8 +1,8 @@
 # 🌊 Diotapp
 
-**Revolutionizing Water Treatment Through Data Science**
+**Revolutionizing Water Treatment with Data Science**
 
-Diotapp focuses on the development of advanced water treatment solutions, leveraging the power of data science and predictive technologies. Our mission is to enhance water purification processes and drive operational efficiency in industrial and commercial sectors, while minimizing environmental impact. We utilize cutting-edge machine learning models to provide highly targeted, scalable, and sustainable solutions.
+At Diotapp, we develop innovative water treatment solutions by harnessing the power of data science and predictive analytics. Our mission is to enhance water purification processes, drive operational efficiency, and reduce environmental impact for industrial and commercial applications. Using cutting-edge machine learning models, we deliver scalable, sustainable solutions that are both effective and eco-friendly.
 
 ---
 
@@ -10,28 +10,28 @@ Diotapp focuses on the development of advanced water treatment solutions, levera
 
 ### 💧 Advanced Water Treatment Solutions
 
-- **Innovative Technologies**: We design state-of-the-art water treatment systems that deliver high-performance results in industrial and commercial settings.
-- **Data-Driven Optimization**: Through predictive analytics, we transform water treatment processes, boosting efficiency while reducing the ecological footprint.
+- **Innovative Technologies**: We create high-performance water treatment systems tailored for industrial and commercial environments.
+- **Data-Driven Optimization**: Using predictive analytics, we optimize purification processes, increasing efficiency and reducing ecological impact.
 
 ### 📈 Data Science and Artificial Intelligence
 
-- **Predictive Maintenance & Automation**: By using advanced machine learning models, we automate key processes, improve operational performance, and lower environmental impact.
-- **Partnerships**: We collaborate with industry leaders to apply data science and AI to unlock new potential and create superior water treatment solutions.
+- **Predictive Maintenance & Automation**: We apply advanced machine learning models to automate key processes and improve operational performance.
+- **Partnerships**: Collaborating with industry leaders, we integrate data science and AI to unlock new potential in water treatment.
 
 ---
 
 ## 🌐 About Us
 
 - **Founded**: 2021, Tartu, Estonia.
-- **Mission**: To revolutionize water treatment by integrating predictive technologies with engineering excellence, ensuring sustainable water management for industries.
-- **Vision**: We aim to lead the way in sustainable water management through the use of intelligent systems that ensure both efficiency and ecological responsibility.
-- **Partnerships**: Our partnerships with leading companies allow us to integrate best practices from AI, data science, and engineering.
+- **Mission**: To revolutionize water treatment by combining predictive technology and engineering excellence.
+- **Vision**: Lead the way in sustainable water management through intelligent systems that drive efficiency and sustainability.
+- **Partnerships**: We collaborate with top companies to integrate AI, data science, and engineering best practices for superior water treatment solutions.
 
 ---
 
 ## 🛠 Tech Stack
 
-Our technical foundation enables us to design, deploy, and optimize predictive models and water treatment solutions efficiently.
+Our tech stack supports the development and deployment of predictive models, automation, and optimization solutions.
 
 ### Data Science and AI Tools:
 
@@ -56,11 +56,7 @@ Our technical foundation enables us to design, deploy, and optimize predictive m
 
 ### Engineering and CAD Tools:
 
-[![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/autocad/overview)  
-[![SolidWorks](https://img.shields.io/badge/SolidWorks-EF3B25?style=for-the-badge&logo=dassaultsystemes&logoColor=white)](https://www.solidworks.com/)  
-[![Solid Edge](https://img.shields.io/badge/Solid%20Edge-0078D7?style=for-the-badge&logo=siemens&logoColor=white)](https://solidedge.siemens.com/en/)  
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)  
-[![Bentley Systems](https://img.shields.io/badge/Bentley-00843E?style=for-the-badge&logo=bentley&logoColor=white)](https://www.bentley.com/)
 
 ---
 
@@ -86,4 +82,4 @@ Our technical foundation enables us to design, deploy, and optimize predictive m
 
 ## 🌱 Committed to Sustainability
 
-At Diotapp, we are committed to developing sustainable water treatment solutions by applying advanced data science and engineering innovations. Our mission is to reduce the environmental footprint of industrial and commercial water systems through predictive modeling and process optimization, ensuring a greener and cleaner future for water management worldwide.
+At Diotapp, we are committed to developing sustainable water treatment solutions by applying advanced data science and engineering innovations. Our mission is to reduce the environmental footprint of industrial and commercial water systems through predictive modeling and process optimization, ensuring a greener, cleaner future for global water management.
