@@ -1,5 +1,3 @@
-Apologies for the inaccuracies. Here's the corrected and more accurate information:
-
 # 🌊 Welcome to Diotapp
 
 **Innovating Water Treatment and Purification Technologies**
