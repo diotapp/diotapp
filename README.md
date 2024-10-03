@@ -1,21 +1,24 @@
 # 🌊 Welcome to Diotapp
 
-**Innovating Water Treatment and Purification Technologies**
+**Innovative Water Treatment and Purification Technologies Empowered by Data Science**
 
-- We transform complex water treatment challenges into simple, effective solutions.
-- Specializing in data science and engineering for the industrial and commercial water sectors.
+- We transform accumulated and incoming data into valuable insights, enhancing water purification processes into effective solutions.
+- Specializing in data science and engineering for the industrial and commercial water sector, specifically in water treatment.
 
 ---
 
 ## 🔧 What We Do
 
-### 💧 Advanced Water Purification Solutions
+### 💧 Advanced Water Treatment Solutions
 
-- We develop cutting-edge technologies for water treatment and purification, aiming to enhance efficiency and minimize environmental impact in industrial and commercial settings.
+- We develop cutting-edge technologies for water treatment and purification, aiming to increase efficiency and minimize environmental impact in industrial and commercial settings.
+- By leveraging accumulated data and extracting valuable insights, we improve processes and deliver optimized solutions.
 
-### 📈 Data Science and AI
+### 📈 Data Science and Artificial Intelligence
 
-- Our team excels in data processing, analysis, and visualization, creating machine learning models for forecasting, optimization, and automation of processes. This enables us to extract valuable insights and implement effective solutions.
+- Our team excels in data processing, analysis, and visualization, applying best practices in data science and machine learning.
+- We collaborate with leading companies in the water purification sector in Estonia, combining our expertise and accumulated knowledge.
+- We develop machine learning models for forecasting, optimization, and automation of processes, allowing us to discover insights and implement effective solutions.
 
 ---
 
@@ -24,7 +27,7 @@
 - 🌍 **Established**: Since 2021, based in Tartu, Estonia.
 - 🎯 **Mission**: To revolutionize water treatment through innovative engineering and data-driven solutions.
 - 🌱 **Vision**: A sustainable future where advanced technology ensures clean water for all industries.
-- 🤝 **Collaboration**: Open to projects related to machine learning, data science, and environmental sustainability.
+- 🤝 **Collaboration**: We work with leading companies in water treatment, applying the best practices of data science and machine learning to achieve superior solutions.
 
 ---
 
@@ -39,8 +42,8 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02457A?style=for-the-badge&logo=LightGBM&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02457A?style=for-the-badge&logo=lightgbm&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -90,11 +93,9 @@
 
 ## 🌟 Fun Facts
 
-- 🌍 We're based in Tartu, Estonia, focusing on innovative water purification solutions since 2021.
+- 🌍 Based in Tartu, Estonia, we've been developing innovative water purification solutions since 2021.
 - 🌱 Committed to environmental sustainability, we leverage machine learning to optimize water treatment processes.
-- 🚀 Continuously pushing the boundaries of engineering and AI to create innovative solutions.
+- 🚀 By utilizing accumulated data and collaborating with industry leaders, we continuously push the boundaries of engineering and artificial intelligence to create innovative solutions.
 - 🤝 We value collaboration and are open to projects that make a positive environmental impact.
 
 ---
-
-Let me know if there's anything else you'd like me to adjust or include.
