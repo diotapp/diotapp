@@ -1,3 +1,5 @@
+Apologies for the inaccuracies. Here's the corrected and more accurate information:
+
 # 🌊 Welcome to Diotapp
 
 **Innovating Water Treatment and Purification Technologies**
@@ -61,6 +63,13 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Diotapp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diotapp&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diotapp&layout=compact&theme=radical)
+
+---
+
 ## 🌟 Featured Projects
 
 [![Our GitHub](https://img.shields.io/badge/GitHub-DIOTAPP-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diotapp)
@@ -76,15 +85,18 @@
 ## 📞 Contact Us
 
 [![Email](https://img.shields.io/badge/Email-diotapp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diotapp@gmail.com)
-[![Website](https://img.shields.io/badge/Website-diotapp.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.diotapp.com/)
+[![Website](https://img.shields.io/badge/Website-di​otapp.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.diotapp.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DIOTAPP-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/diotapp/)
 
 ---
 
 ## 🌟 Fun Facts
 
-- 💡 We've been pioneers in **3D modeling** since 2011, focusing on **industrial design** and **AR visualization**.
-- 🌍 Committed to **environmental sustainability**, we leverage **machine learning** to optimize water treatment processes.
-- 🚀 Continuously pushing the boundaries of **engineering** and **AI** to create innovative solutions.
+- 🌍 We're based in Tartu, Estonia, focusing on innovative water purification solutions since 2021.
+- 🌱 Committed to environmental sustainability, we leverage machine learning to optimize water treatment processes.
+- 🚀 Continuously pushing the boundaries of engineering and AI to create innovative solutions.
 - 🤝 We value collaboration and are open to projects that make a positive environmental impact.
 
 ---
+
+Let me know if there's anything else you'd like me to adjust or include.
