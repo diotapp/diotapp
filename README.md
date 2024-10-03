@@ -1,8 +1,8 @@
 # 🌊 Welcome to Diotapp
 
-**Innovative Water Treatment Solutions Powered by Data Science**
+**Pioneering Water Treatment Solutions Powered by Data Science**
 
-We harness the power of data to revolutionize water treatment, optimizing purification processes and driving efficiency. Specializing in both engineering and data science for industrial and commercial water sectors, we deliver cutting-edge solutions with minimal environmental impact.
+At Diotapp, we focus on developing technical solutions for water treatment by leveraging data science and predictive models. We optimize purification processes and drive efficiency for industrial and commercial applications, without focusing on direct data collection. Our goal is to minimize environmental impact while delivering cutting-edge, sustainable solutions.
 
 ---
 
@@ -10,51 +10,43 @@ We harness the power of data to revolutionize water treatment, optimizing purifi
 
 ### 💧 Advanced Water Treatment Solutions
 
-- We develop innovative technologies for water purification, focusing on boosting efficiency while reducing environmental footprints for industrial and commercial applications.
-- Leveraging data-driven insights, we optimize treatment processes to deliver sustainable and highly effective solutions.
+- We design and implement state-of-the-art technologies to enhance water treatment efficiency in industrial and commercial settings.
+- Using predictive analytics and data-driven insights, we optimize purification processes to create high-performance, eco-friendly solutions.
 
 ### 📈 Data Science and Artificial Intelligence
 
-- Our team applies advanced data science and machine learning techniques to forecast, optimize, and automate water treatment processes.
-- By partnering with leading companies in the water sector, we deliver solutions that improve operational performance and environmental outcomes.
+- Our team applies advanced machine learning models for predictive maintenance, process optimization, and automation within the water treatment industry.
+- By collaborating with leading companies, we help clients unlock data’s potential to improve operational efficiency and reduce environmental impact. Our expertise lies in model development, rather than raw data collection, allowing us to deliver targeted, scalable solutions.
 
 ---
 
 ## 🌐 About Us
 
-- **Founded**: 2021, based in Tartu, Estonia.
-- **Mission**: To revolutionize water treatment with data-driven innovations that ensure clean, sustainable water for industrial use.
-- **Vision**: A future where technology and sustainability coexist to provide clean water solutions worldwide.
-- **Partnerships**: Collaborating with top companies to integrate best practices from engineering, data science, and machine learning.
+- **Founded**: 2021, Tartu, Estonia.
+- **Mission**: Revolutionize water treatment with advanced engineering and predictive technologies, ensuring clean and efficient water solutions for industries.
+- **Vision**: A future where intelligent systems drive sustainable water management.
+- **Partnerships**: We collaborate with leading companies, integrating best practices in machine learning, data science, and engineering for superior water treatment solutions.
 
 ---
 
 ## 🛠 Tech Stack
 
+Our technical foundation enables us to design and deploy predictive models and optimization solutions:
+
 ### Data Science and AI Tools:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02457A?style=for-the-badge&logo=lightgbm&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge&logo=ai&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-003A70?style=for-the-badge&logo=python&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC0000?style=for-the-badge&logo=databricks&logoColor=white)
+- Python, TensorFlow, Docker, Scikit-learn, Pandas, LightGBM, PyTorch, SQL, Apache Spark, SciPy, NLTK, SQLAlchemy.
 
 ### Engineering and CAD Tools:
 
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+- Blender, AutoCAD, SolidWorks.
+
+---
+
+## 🌟 GitHub Stats
+
+![Diotapp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diotapp&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diotapp&layout=compact&theme=radical)
 
 ---
 
@@ -73,4 +65,4 @@ We harness the power of data to revolutionize water treatment, optimizing purifi
 
 ## 🌱 Committed to Sustainability
 
-We are driven by a commitment to reduce the environmental impact of water treatment processes through innovative engineering and advanced data science techniques. Our goal is to lead the charge in creating cleaner, more sustainable water solutions.
+Our mission is to lead the way in reducing the environmental footprint of water treatment processes by harnessing the power of data science and engineering innovation. By focusing on model development and predictive technologies, we enable industries to adopt cleaner, more efficient water solutions, ensuring a sustainable future.
